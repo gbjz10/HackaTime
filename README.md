@@ -1,2 +1,2 @@
 # HackaTime
-This is just some code for Summer of Making
+This is just some code for Summer of Making. The game is curerntly incomplete, but I recieved an email with a survey that encouraged me to ship my project even though it isn't fully complete. The game uses basic mechanics. Click the start button to go to a "choose your character screen" and then click a "character." They are just colored blocks for now. After that, you should be able to use WASD to move the block around. 
